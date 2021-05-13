@@ -1,0 +1,38 @@
+# Site settings
+title: "Sourag C"
+email: souragc2001@gmail.com
+description: "A place where I store things I learn."
+baseurl: ""
+url: "souragc.github.io"
+title_description: "Writeups of challenges I solve and Blogs about concepts I learn will be posted here."
+title_image: "https://www.gravatar.com/avatar/00000000000000000000000000000000?s=500&d=mm"
+google_analytics: "UA-194191174-1"
+disqus_account: 
+github_repository:
+addthis_id:
+post_limit:
+
+# Social usernames/URLs
+twitter_username: 3agl31
+github_username:  souragc
+instagram_username: _sourag_c_
+reddit_username: 
+linkedin_link: https://www.linkedin.com/in/sourag-c-05bb3a197/
+google_plus_link:
+stackoverflow_link:
+xing_link:
+facebook_link:
+
+# Footer
+footer_left: "Made with <i class=\"fa fa-heart\"></i> by <a href=\"https://twitter.com/_JacobTomlinson\">Jacob Tomlinson</a>"
+footer_right: "&lt;/&gt; on <a href=\"https://github.com/jacobtomlinson/carte-noire\">Github</a> &nbsp;<i class=\"fa fa-github-alt\"></i>"
+
+# Build settings
+markdown: kramdown
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+permalink: pretty
+exclude: [vendor]
