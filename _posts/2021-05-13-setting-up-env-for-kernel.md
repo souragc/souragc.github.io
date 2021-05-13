@@ -61,7 +61,7 @@ echo 1 > /proc/sys/kernel/kptr_restrict
 echo 1 > /proc/sys/kernel/dmesg_restrict
 ```
 
-This will help later when we want to view `dmesg` and `/proc/kallsyms`.Another thing 
+This will help later when we want to view `dmesg` and `/proc/kallsyms`. Another thing 
 to change is the `start.sh`. Change the `kaslr` to `nokaslr` and add `-s` as another 
 parameter. First one disables kaslr which will be really useful when we want to debug 
 and the `-s` option creates a gdb server at `localhost:1234` which we will use to debug
