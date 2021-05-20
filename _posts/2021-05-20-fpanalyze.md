@@ -8,7 +8,7 @@ tags:
  - ctf
 ---
 
-This is a tool created by myself and [Cyb0rG](https://pwnverse.github.io/).
+This is a tool created by myself and [Cyb0rG](https://twitter.com/_Cyb0rG).
 
 ### Introduction
 
