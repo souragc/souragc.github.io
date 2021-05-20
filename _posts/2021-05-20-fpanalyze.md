@@ -36,7 +36,7 @@ information on how to use can be found on github.
 ### Sample
 
 This is how it looks while running with a challenge from one of the ctfs.  
-[sample](../imgs/fpanalyze/sample.png)
+![sample](/imgs/fpanalyze/sample.png)
 
 ### Code
 
