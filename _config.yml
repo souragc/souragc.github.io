@@ -6,7 +6,7 @@ baseurl: ""
 url: "souragc.github.io"
 title_description: "Writeups of challenges I solve and Blogs about concepts I learn will be posted here."
 title_image: "./imgs/profile.jpeg"
-google_analytics: "UA-194191174-1"
+google_analytics:
 disqus_account: 
 github_repository:
 addthis_id:
