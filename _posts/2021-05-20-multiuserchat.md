@@ -33,16 +33,16 @@ messages from here. There is an option to view currently active users.
 ### Screenshots
 
 Welcome window  
-![welcome](./img/multiuserchat/welcome.png)
+![welcome](../imgs/multiuserchat/welcome.png)
 
 Register window  
-![register](./img/multiuserchat/register.img)
+![register](../imgs/multiuserchat/register.img)
 
 Chat window  
-![chat](./img/multiuserchat/chat.png)
+![chat](../imgs/multiuserchat/chat.png)
 
 Active users window  
-![active](./img/multiuserchat/active.png)
+![active](../imgs/multiuserchat/active.png)
 
 
 ### Code
