@@ -36,7 +36,7 @@ Welcome window
 ![welcome](/imgs/multiuserchat/welcome.png)
 
 Register window  
-![register](/imgs/multiuserchat/register.img)
+![register](/imgs/multiuserchat/register.png)
 
 Chat window  
 ![chat](/imgs/multiuserchat/chat.png)
