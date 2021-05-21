@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Debugging a kernel challenge.
-data: 2021-05-13 17:47:44
+date: 2021-05-13 17:47:44
 summary: How to debug a kernel challenge in a ctf.
 tags:
  - kernel
